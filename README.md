@@ -14,13 +14,12 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working @[AppsCode](https://appscode.com)
+- 🔭 I’m currently working as Senior Software Engineer @[AppsCode](https://appscode.com)
 <!-- - 🌱 I’m currently learning ... -->
 - 💬 Ask me about Kubernetes, Go
 <!-- - 📫 How to reach me: ... -->
-- ⚡ Fun fact: Don't let my `Most Used Languages` stats fool you. It's `Go` btw. 😃
+- ⚡ Fun fact: Don't let my `PHP` and `JavaScript` stats fool you. It's all about `Go` btw. 😃
 
 
 
