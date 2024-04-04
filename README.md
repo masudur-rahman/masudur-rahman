@@ -15,7 +15,7 @@
 
 
 
-- 🔭 I’m currently working as Senior Software Engineer @[AppsCode](https://appscode.com)
+- 🔭 I’m currently working as DevOps Engineer @[Pathao](https://pathao.com)
 <!-- - 🌱 I’m currently learning ... -->
 - 💬 Ask me about Kubernetes, Go
 <!-- - 📫 How to reach me: ... -->
