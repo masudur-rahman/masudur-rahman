@@ -36,8 +36,8 @@ for high-traffic financial services.
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=masudur-rahman&show_icons=true&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=masudur-rahman&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=masudur-rahman&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=masudur-rahman&theme=tokyonight)
 
 
 ## 🏆 Competitive Programming
@@ -51,7 +51,9 @@ for high-traffic financial services.
     <img alt="StackOverflow" src="https://stackoverflow-badge.vercel.app/?userID=6013663"/>
   </a>
   &nbsp;
-  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=masudur-rahman.masudur-rahman)
+  <a href="https://visitor-badge.laobi.icu/badge?page_id=masudur-rahman.masudur-rahman">
+    <img alt="Visitor Badge" src="https://visitor-badge.laobi.icu/badge?page_id=masudur-rahman.masudur-rahman"/>
+  </a>
 </p>
 
 ---
