@@ -10,7 +10,7 @@ for high-traffic financial services.
 ---
 
 - 🔭 Currently working as **Senior Software Engineer (DevOps)** @ [Pathao](https://pathao.com)
-- 🏅 **CKA Certified** — working toward **CKS** (Certified Kubernetes Security Specialist)
+- 🏅 Certifications: **[CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/351fbffa-af1e-4803-8e60-8fd52c617606/public_url), [CKS: Certified Kubernetes Security Specialist](https://www.credly.com/badges/5a9166da-2385-410d-a8df-1e0bcc782d97/public_url)**
 - 💬 Ask me about **Kubernetes**, **Go**, **Observability**, **Infrastructure**
 - ⚡ Competitive programmer — ICPC Dhaka Regional finalist · Codeforces max rating **1702**
 - 😄 Fun fact: Don't let my `PHP` and `JavaScript` stats fool you. It's all `Go` btw.
